@@ -1,0 +1,16 @@
+# IntelliJ project files
+.idea
+.vscode
+
+### Node template
+# Logs
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Mac OSX specific
+.DS_Store
+
+# Build folder
+dist
